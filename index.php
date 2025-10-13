@@ -19,6 +19,8 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     } else {
         $message = "💀 You lose! You chose $user_choice and the computer chose $computer_choice.";
     }
+
+    
 }
 ?>
 
